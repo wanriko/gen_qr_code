@@ -5,3 +5,4 @@ print(input_)
 img = qrcode.make(input_)
 img.save("youtubeQR.jpg")
 
+
